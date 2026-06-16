@@ -1,4 +1,4 @@
-![This is me, Me is this](/assets/meme.jpeg)
+<!-- ![This is me, Me is this](/assets/meme.jpeg) -->
 
 # Hi — I’m Subhadeep (Subhas)
 
@@ -20,9 +20,9 @@ Currently sharpening low-level engineering skills and building protocol primitiv
 - Secure-by-default workflow: tests, CI, simulation, deterministic state handling.
 
 ## Featured projects
-- **[rust-learnings**](https://github.com/subhadeep-sengupta/rust-learnings.git) — My Rust learning journey from Zero to Employed.
-- **[Gacha-gotcha**](https://github.com/subhadeep-sengupta/gacha-gotcha.git) — Built an on-chain NFT marketplace where users can purchase NFT packs with different rarity distributions and trade the resulting NFTs.
-- **[ip-sniffer](https://github.com/subhadeep-sengupta/ip-sniffer.git)** — Basic implementation of what I understand about IP sniffing.
+- **[Rust-learnings](https://github.com/subhadeep-sengupta/rust-learnings.git)** — My Rust learning journey from Zero to Employed.
+- **[Gacha-gotcha](https://github.com/subhadeep-sengupta/gacha-gotcha.git)** — Built an on-chain NFT marketplace where users can purchase NFT packs with different rarity distributions and trade the resulting NFTs.
+- **[IP-sniffer](https://github.com/subhadeep-sengupta/ip-sniffer.git)** — Basic implementation of what I understand about IP sniffing.
 - **quasar** — A blazing fast Solana program framework.
 - **excalidraw** — Virtual whiteboard for sketching hand-drawn-like diagrams.
 
