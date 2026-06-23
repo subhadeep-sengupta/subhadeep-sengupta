@@ -1,6 +1,6 @@
 <!-- ![This is me, Me is this](/assets/meme.jpeg) -->
 
-# Hi — I’m Subhadeep (Subhas)
+# Hi — I’m Subhadeep
 
 I build Solana on-chain programs and full-stack dApps with a focus on secure, production-ready Rust development.  
 Currently sharpening low-level engineering skills and building protocol primitives (AMMs, staking, VRF automation).
